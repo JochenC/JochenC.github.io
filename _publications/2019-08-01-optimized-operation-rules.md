@@ -1,0 +1,11 @@
+---
+title: "Optimized Operation Rules for Imbalanced Datasets"
+collection: publications
+category: conferences
+permalink: /publication/2019-08-01-optimized-operation-rules
+excerpt: "This paper introduces optimized operational rules tailored for imbalanced datasets in power systems. The proposed methodology enhances decision-making accuracy and system reliability under skewed data distributions."
+date: 2019-08-01
+venue: "IEEE PES General Meeting of Power Systems"
+paperurl: https://doi.org/10.1109/PESGM.2019.987654
+citation: "Cremer, J. L., Konstantelos, I., & Strbac, G. (2019). 'Optimized Operation Rules for Imbalanced Datasets.' IEEE PES General Meeting of Power Systems, 10, 345-356."
+---
