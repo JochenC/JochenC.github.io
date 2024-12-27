@@ -7,5 +7,5 @@ excerpt: "This research introduces a data-driven scenario generation framework f
 date: 2018-10-01
 venue: "Applied Energy"
 paperurl: https://doi.org/10.1016/j.apenergy.2018.06.095
-citation: "Sun, M., Cremer, J. L., & Strbac, G. (2018). 'A Novel Data-Driven Scenario Generation Framework for Transmission Expansion Planning with High Renewable Energy Penetration.' Applied Energy, 224, 106789."
+citation: "Sun, M., Cremer, J. L., & Strbac, G. (2018). 'A Novel Data-Driven Scenario Generation Framework for Transmission Expansion Planning with High Renewable Energy Penetration.' Applied Energy, 228, 546-555."
 ---
