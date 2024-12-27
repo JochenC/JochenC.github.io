@@ -7,5 +7,5 @@ excerpt: "This study explores decision tree models for security assessment in po
 date: 2021-12-01
 venue: "Energy and AI"
 paperurl: https://doi.org/10.1016/j.egyai.2021.100110
-citation: "Bugaje, A., Cremer, J. L., Sun, M., & Strbac, G. (2021). 'Selecting decision trees for power system security assessment.' Energy and AI, 4, 100110."
+citation: "Bugaje, A., Cremer, J. L., Sun, M., & Strbac, G. (2021). 'Selecting decision trees for power system security assessment.' Energy and AI, 6, 100110."
 ---
