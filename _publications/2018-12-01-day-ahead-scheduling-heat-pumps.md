@@ -7,5 +7,5 @@ excerpt: "This paper presents a day-ahead scheduling framework for electric heat
 date: 2018-12-01
 venue: "Communications in Computer and Information Science, Springer Journal"
 paperurl: https://doi.org/10.1007/978-3-030-02907-4_2
-citation: "Pau, M., Cremer, J. L., Ponci, F., & Monti, A. (2018). 'Day-Ahead Scheduling of Electric Heat Pumps for Peak Shaving in Distribution Grids.' Communications in Computer and Information Science, 7, 678-690."
+citation: "Pau, M., Cremer, J. L., Ponci, F., & Monti, A. (2018). 'Day-Ahead Scheduling of Electric Heat Pumps for Peak Shaving in Distribution Grids.' Communications in Computer and Information Science, 921, 27–51."
 ---
