@@ -22,7 +22,7 @@ repository               : "JochenC/JochenC.github.io"
 author:
   # Biographic information
   avatar           : "Jochen.png"
-  name             : "Your Sidebar Name"
+  name             : "Jochen L. Cremer"
   pronouns         : "he/him"  
   bio              : "Electrical Power Engineer with Computer Science Expertise, PhD Imperial College London, MSc BSc BSc RWTH Aachen University"
   location         : "Netherlands"
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.nl/citations?hl=en&user=HsBGhOkAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-9284-5083"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Jochen-Cremer"
   scopus           : # URL
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
