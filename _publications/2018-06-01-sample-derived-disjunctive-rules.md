@@ -7,5 +7,5 @@ excerpt: "This research introduces a sample-derived approach to formulating disj
 date: 2018-06-01
 venue: "IEEE International Conference on Probabilistic Methods Applied to Power Systems, Boise, USA"
 paperurl: https://doi.org/10.1109/PMAPS.2018.8440373
-citation: "Cremer, J. L., Konstantelos, I., Tindemans, S. H., & Strbac, G. (2018). 'Sample-Derived Disjunctive Rules for Secure Power System Operation.' IEEE International Conference on Probabilistic Methods Applied to Power Systems, Boise, USA, 6, 123-135."
+citation: "Cremer, J. L., Konstantelos, I., Tindemans, S. H., & Strbac, G. (2018). 'Sample-Derived Disjunctive Rules for Secure Power System Operation.' IEEE International Conference on Probabilistic Methods Applied to Power Systems, Boise, USA, 1-6."
 ---
