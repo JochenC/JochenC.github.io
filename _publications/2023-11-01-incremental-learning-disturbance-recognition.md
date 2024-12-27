@@ -1,5 +1,5 @@
 ---
-title: "Incremental Learning for Real-Time Electrical Disturbance Event Recognition"
+title: "Dynamic Incremental Learning for real-time disturbance event classification"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-11-01-incremental-learning-disturbance-recognition
@@ -7,5 +7,5 @@ excerpt: "This paper presents an incremental learning approach for real-time rec
 date: 2023-11-01
 venue: "International Journal of Electrical Power & Energy Systems"
 paperurl: https://doi.org/10.1016/j.ijepes.2023.108988
-citation: "Veera Kumar, N., Cremer, J. L., & Popov, M. (2023). 'Incremental Learning for Real-Time Electrical Disturbance Event Recognition.' International Journal of Electrical Power & Energy Systems, 142, 108988."
+citation: "Veera Kumar, N., Cremer, J. L., & Popov, M. (2023). 'Dynamic Incremental Learning for real-time disturbance event classification.' International Journal of Electrical Power & Energy Systems, 148, 108988."
 ---
