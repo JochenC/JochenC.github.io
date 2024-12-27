@@ -7,5 +7,5 @@ excerpt: "This paper presents an optimal scheduling framework for heat pumps aim
 date: 2017-04-01
 venue: "International Conference on Smart Cities and Green ICT Systems, Portugal"
 paperurl: https://www.scitepress.org/PublishedPapers/2017/63058/63058.pdf
-citation: "Cremer, J. L., Pau, M., Ponci, F., & Monti, A. (2017). 'Optimal Scheduling of Heat Pumps for Power Peak Shaving and Customers’ Thermal Comfort.' International Conference on Smart Cities and Green ICT Systems, Portugal, 5, 678-690."
+citation: "Cremer, J. L., Pau, M., Ponci, F., & Monti, A. (2017). 'Optimal Scheduling of Heat Pumps for Power Peak Shaving and Customers’ Thermal Comfort.' International Conference on Smart Cities and Green ICT Systems, Portugal, 23-34."
 ---
