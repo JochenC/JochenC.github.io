@@ -21,7 +21,7 @@ repository               : "JochenC/JochenC.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Jochen.png"
+  avatar           : "Jochen.jpeg"
   name             : "Jochen L. Cremer"
   pronouns         : "he/him"  
   bio              : "Electrical Power Engineer with Computer Science Expertise, PhD Imperial College London, MSc BSc BSc RWTH Aachen University"
