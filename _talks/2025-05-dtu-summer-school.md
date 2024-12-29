@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-05-dtu-summer-school
 venue: "DTU Summer School"
-date: 2025-05-18
+date: 2025-05-19
 location: "Copenhagen, Denmark"
 ---
 This talk at the DTU PES Summer School 2025 focused on novel research topics and methods in deep learning applied to reliability assessment. It highlights applications of machine learning and optimization in energy systems, featuring insights from leading researchers and industry experts. 
