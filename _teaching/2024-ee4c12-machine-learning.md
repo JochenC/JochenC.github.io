@@ -2,9 +2,9 @@
 title: "EE4C12: Machine Learning for Electrical Engineering"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2024-ee4c12-machine-learning3
+permalink: /teaching/2024-ee4c12-machine-learning
 venue: "TU Delft, Faculty of Electrical Engineering, Mathematics and Computer Science"
-date: 2024-11-01
+date: 2024-09-01
 location: "Delft, Netherlands"
 ---
 
