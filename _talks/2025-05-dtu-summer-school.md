@@ -16,7 +16,7 @@ Abstact: Expanding grids with renewable energy challenges their reliability. Met
 - Optimisation-based sampling
 - Model requirements in control rooms
 
-### Part B: Learning models for secure system operation>
+### Part B: Learning models for secure system operation
 - Interpretable models
 - CNNs and Graph Neural Networks
 - Learning with domain knowledge
