@@ -1,5 +1,5 @@
 ---
-title: "Panelist: AI Methods For Realtime Dynamic Security Assessment"
+title: "AI Methods For Realtime Dynamic Security Assessment"
 collection: talks
 type: "Panel"
 permalink: /talks/2022-05-25-sgsma-ai-methods-dsa

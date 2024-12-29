@@ -1,5 +1,5 @@
 ---
-title: "Plenary Panellist: Stability, Dynamics, and Control of Emerging Renewable-Rich Power Systems"
+title: "Stability, Dynamics, and Control of Emerging Renewable-Rich Power Systems"
 collection: talks
 type: "Panel"
 permalink: /talks/2022-10-10-isgt-europe-stability-dynamics-control

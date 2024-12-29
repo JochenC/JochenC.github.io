@@ -1,5 +1,5 @@
 ---
-title: "Plenary Panellist: Artificial Intelligence for Active Power Distribution"
+title: "Artificial Intelligence for Active Power Distribution"
 collection: talks
 type: "Panel"
 permalink: /talks/2022-10-11-isgt-europe-ai-active-power-distribution

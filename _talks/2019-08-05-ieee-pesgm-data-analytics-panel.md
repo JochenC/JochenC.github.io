@@ -1,5 +1,5 @@
 ---
-title: "Panelist: Data Analytic Tools for Security Assessment of Bulk Power Systems"
+title: "Data Analytic Tools for Security Assessment of Bulk Power Systems"
 collection: talks
 type: "Panel"
 permalink: /talks/2019-08-05-ieee-pesgm-data-analytics-panel

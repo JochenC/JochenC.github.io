@@ -1,5 +1,5 @@
 ---
-title: "Panellist: Learning to Run a Power Network with Trust"
+title: "Learning to Run a Power Network with Trust"
 collection: talks
 type: "Panel"
 permalink: /talks/2022-07-19-pesgm-learning-run-power-network

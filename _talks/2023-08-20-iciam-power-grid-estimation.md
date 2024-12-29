@@ -1,5 +1,5 @@
 ---
-title: "Speaker: Weakly Supervised Learning for Power Grid State Estimation"
+title: "Weakly Supervised Learning for Power Grid State Estimation"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-08-20-iciam-power-grid-estimation

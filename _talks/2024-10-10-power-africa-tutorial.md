@@ -1,5 +1,5 @@
 ---
-title: "Panel Speaker: ML/AI Applications in Power Systems: Drivers and Barriers"
+title: "ML/AI Applications in Power Systems: Drivers and Barriers"
 collection: talks
 type: "Panel"
 permalink: /talks/2024-10-14-ml-ai-power-systems-panel

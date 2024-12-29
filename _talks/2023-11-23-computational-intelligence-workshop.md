@@ -1,5 +1,5 @@
 ---
-title: "Keynote Speaker: 33rd Workshop on Computational Intelligence"
+title: "33rd Workshop on Computational Intelligence"
 collection: talks
 type: "Keynote"
 permalink: /talks/2023-11-23-computational-intelligence-workshop

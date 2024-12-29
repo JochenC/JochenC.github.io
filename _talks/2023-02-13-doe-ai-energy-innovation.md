@@ -1,5 +1,5 @@
 ---
-title: "Keynote Speaker: AI for Energy – Exploring Activities and Opportunities in the Netherlands"
+title: "AI for Energy – Exploring Activities and Opportunities in the Netherlands"
 collection: talks
 type: "Keynote"
 permalink: /talks/2023-02-13-doe-ai-energy-innovation

@@ -1,5 +1,5 @@
 ---
-title: "Panelist: Graph Neural Networks for Distribution State Estimation"
+title: "Graph Neural Networks for Distribution State Estimation"
 collection: talks
 type: "Panel"
 permalink: /talks/2023-06-27-powertech-gnn-distribution

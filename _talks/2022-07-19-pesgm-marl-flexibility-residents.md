@@ -1,5 +1,5 @@
 ---
-title: "Panellist: Multi-Agent Reinforcement Learning for Incentivized Flexibility from Residents"
+title: "Multi-Agent Reinforcement Learning for Incentivized Flexibility from Residents"
 collection: talks
 type: "Panel"
 permalink: /talks/2022-07-19-pesgm-marl-flexibility-residents

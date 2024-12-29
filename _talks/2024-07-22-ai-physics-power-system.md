@@ -1,5 +1,5 @@
 ---
-title: "Panelist: Convergence of AI- and Physics-Based Approaches in Power System Analysis, Optimization, and Control"
+title: "Convergence of AI- and Physics-Based Approaches in Power System Analysis, Optimization, and Control"
 collection: talks
 type: "Panel"
 permalink: /talks/2024-07-22-ai-physics-power-system

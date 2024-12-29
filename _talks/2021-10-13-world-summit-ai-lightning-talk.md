@@ -1,5 +1,5 @@
 ---
-title: "Lightning Talk: AI Innovations in Energy Systems"
+title: "AI Innovations in Energy Systems"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-10-13-world-summit-ai-lightning-talk

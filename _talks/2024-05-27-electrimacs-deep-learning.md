@@ -1,5 +1,5 @@
 ---
-title: "Speaker: Advancing Power System Reliability with System-based Deep Learning"
+title: "Advancing Power System Reliability with System-based Deep Learning"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-05-27-electrimacs-deep-learning

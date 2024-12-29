@@ -1,5 +1,5 @@
 ---
-title: "Speaker: Reinforcement Learning for Energy Community Management"
+title: "Reinforcement Learning for Energy Community Management"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-06-17-rl4sn-energy-community-management

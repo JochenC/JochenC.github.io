@@ -1,5 +1,5 @@
 ---
-title: "Keynote Address: AI: Real-Time Operations or Full Automation?"
+title: "AI: Real-Time Operations or Full Automation?"
 collection: talks
 type: "Keynote"
 permalink: /talks/2021-09-15-isa-knowledge-days-keynote

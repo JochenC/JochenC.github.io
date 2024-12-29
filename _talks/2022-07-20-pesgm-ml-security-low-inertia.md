@@ -1,5 +1,5 @@
 ---
-title: "Plenary Panellist: Machine Learning for Security Assessments in Low Inertia Grids"
+title: "Machine Learning for Security Assessments in Low Inertia Grids"
 collection: talks
 type: "Panel"
 permalink: /talks/2022-07-20-pesgm-ml-security-low-inertia

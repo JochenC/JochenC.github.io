@@ -1,5 +1,5 @@
 ---
-title: "Speaker at Energietage 2024"
+title: "Energietage 2024"
 collection: talks
 type: "Panel"
 permalink: /talks/2024-11-15-energietage-panel

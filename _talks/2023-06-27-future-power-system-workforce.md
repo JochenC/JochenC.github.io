@@ -1,5 +1,5 @@
 ---
-title: "Panelist: Young Professionals Panel Session on Future Power System Workforce"
+title: "Young Professionals Panel Session on Future Power System Workforce"
 collection: talks
 type: "Panel"
 permalink: /talks/2023-06-27-future-power-system-workforce

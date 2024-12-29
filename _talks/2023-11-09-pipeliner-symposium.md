@@ -1,5 +1,5 @@
 ---
-title: "Keynote Speaker: AI-based Monitoring for Sustainable Energy Systems"
+title: "AI-based Monitoring for Sustainable Energy Systems"
 collection: talks
 type: "Keynote"
 permalink: /talks/2023-11-09-pipeliner-symposium

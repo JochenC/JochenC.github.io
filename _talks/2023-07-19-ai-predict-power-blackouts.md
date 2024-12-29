@@ -1,5 +1,5 @@
 ---
-title: "Panelist: Machine Learning to Prevent Blackouts in Power Systems"
+title: "Machine Learning to Prevent Blackouts in Power Systems"
 collection: talks
 type: "Panel"
 permalink: /talks/2023-07-19-ai-predict-power-blackouts

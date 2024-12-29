@@ -1,5 +1,5 @@
 ---
-title: "Speaker: Webinar at IEEE PES Chapter Spain, Women in Power"
+title: "Webinar at IEEE PES Chapter Spain, Women in Power"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-05-31-ieee-pes-spain-wip-webinar

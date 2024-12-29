@@ -1,7 +1,7 @@
 ---
-title: "Round Table Discussion: AI and ML for Smart Grids"
+title: "AI and ML for Smart Grids"
 collection: talks
-type: "Panel"
+type: "Round Table Discussion"
 permalink: /talks/2023-03-20-smart-grid-tech-week
 venue: "Smart Grid Tech Week"
 date: 2023-03-20

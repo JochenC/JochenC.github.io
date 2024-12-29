@@ -1,5 +1,5 @@
 ---
-title: "Speaker: Weakly-supervised Graph Neural Networks for Distribution System State Estimation"
+title: "Weakly-supervised Graph Neural Networks for Distribution System State Estimation"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-02-04-champery-power-conference

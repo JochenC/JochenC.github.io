@@ -1,5 +1,5 @@
 ---
-title: "Panelist: Dynamic Modeling of Multi-Energy Systems"
+title: "Dynamic Modeling of Multi-Energy Systems"
 collection: talks
 type: "Panel"
 permalink: /talks/2024-07-21-dynamic-modeling-multi-energy-systems

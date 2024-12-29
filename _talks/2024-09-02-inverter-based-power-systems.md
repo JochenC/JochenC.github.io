@@ -1,5 +1,5 @@
 ---
-title: "Speaker: Inverter-Based Power Systems Summer School"
+title: "Inverter-Based Power Systems Summer School"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2024-09-02-inverter-based-power-systems

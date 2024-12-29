@@ -1,5 +1,5 @@
 ---
-title: "Panelist: On Dynamics and Artificial Intelligence for Power Systems"
+title: "On Dynamics and Artificial Intelligence for Power Systems"
 collection: talks
 type: "Panel"
 permalink: /talks/2022-05-24-sgsma-dynamics-ai-power-systems

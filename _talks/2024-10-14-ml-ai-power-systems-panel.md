@@ -1,5 +1,5 @@
 ---
-title: "Tutorial at IEEE PES & Power Africa Conference 2024"
+title: "IEEE PES & Power Africa Conference 2024"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2024-10-10-power-africa-tutorial

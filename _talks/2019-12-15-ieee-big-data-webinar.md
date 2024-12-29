@@ -1,5 +1,5 @@
 ---
-title: "Presentation: Advanced Data Analytics in Power Systems"
+title: "Advanced Data Analytics in Power Systems"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-12-15-ieee-big-data-webinar

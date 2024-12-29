@@ -1,5 +1,5 @@
 ---
-title: "Speaker: AI for NetZero Webinar Series"
+title: "AI for NetZero Webinar Series"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-09-01-ai-for-netzero

@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Rise of AI | Opportunity or Threat?"
+title: "Rise of AI: Opportunity or Threat?"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2024-05-28-dutchpower-ai-symposium

@@ -1,5 +1,5 @@
 ---
-title: "Speaker: Constraint-Driven Deep Learning for N-k Security Constrained Optimal Power Flow"
+title: "Constraint-Driven Deep Learning for N-k Security Constrained Optimal Power Flow"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-03-12-supergen-risk-resilience

@@ -1,5 +1,5 @@
 ---
-title: "Keynote Address: AI for Distributed Energy Systems"
+title: "AI for Distributed Energy Systems"
 collection: talks
 type: "Keynote"
 permalink: /talks/2022-09-01-intellisys-ai-distributed-energy

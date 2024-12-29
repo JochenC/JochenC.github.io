@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: CIGRE C2.25 Operational Resilience"
+title: "CIGRE C2.25 Operational Resilience"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2021-08-20-cigre-operational-resilience

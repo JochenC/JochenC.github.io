@@ -1,5 +1,5 @@
 ---
-title: "Panelist: Machine Learning Based Operation of Dynamic Sustainable Energy Systems"
+title: "Machine Learning Based Operation of Dynamic Sustainable Energy Systems"
 collection: talks
 type: "Panel"
 permalink: /talks/2019-11-21-ieee-ispec-ml-operation

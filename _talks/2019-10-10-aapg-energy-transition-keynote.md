@@ -1,5 +1,5 @@
 ---
-title: "Keynote Address: A Student Perspective on Climate Change"
+title: "A Student Perspective on Climate Change"
 collection: talks
 type: "Keynote"
 permalink: /talks/2019-10-10-aapg-energy-transition-keynote
