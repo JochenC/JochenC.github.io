@@ -8,7 +8,7 @@ date: 2024-11-01
 location: "Delft, Netherlands"
 ---
 
-SET3125 is a graduate-level course offered to MSc students at TU Delft, focusing on the fundamentals of machine learning and its applications in sustainable energy systems, with an emphasis on digital technologies. The course provides a foundation for further studies in digital energy technologies and machine learning, and prepares students for thesis work involving artificial intelligence.
+EE4C12 is a graduate-level course designed for MSc students in Electrical Engineering at TU Delft. This course provides a comprehensive introduction to machine learning concepts, with a focus on applications relevant to electrical and energy systems. Students will gain theoretical knowledge and hands-on experience, equipping them to apply machine learning techniques effectively in real-world problems.
 
 ### Course Details
 - **Degree Program**: MSc Sustainable Energy Technology
