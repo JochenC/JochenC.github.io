@@ -66,4 +66,10 @@ By the end of the course, students will be able to:
 ### Education Method
 The course employs interactive, intuition-based lectures and hands-on coding labs. Students engage in practical implementations of machine learning models, integrating theoretical knowledge with real-world applications.
 
-[Course documentation and detailed syllabus here](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=70087)
+### Literature and Study Materials
+- **Primary Textbook**: *Machine Learning Refined, Foundations, Algorithms, and Applications* by Jeremy Watt, Reza Borhani, and Aggelos K. Katsaggelos (Cambridge University Press, 2nd edition, 2020, ISBN: 9781108480727).
+- **Supplementary Texts**:
+  - *An Introduction to Reinforcement Learning* by Richard S. Sutton and Andrew G. Barto.
+  - *Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges* by Michael M. Bronstein et al.
+
+[Course documentation and detailed syllabus here](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=67670)
