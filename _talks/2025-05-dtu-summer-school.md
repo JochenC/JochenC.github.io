@@ -7,7 +7,7 @@ venue: "DTU Summer School"
 date: 2025-05-18
 location: "Copenhagen, Denmark"
 ---
-This talk at the DTU PES Summer School 2025 focused on novel research topics and methods in deep learning applied to reliability assessment. It highlights applications of machine learning and optimization in energy systems, featuring insights from leading researchers and industry experts. 
+This talk at the DTU PES Summer School 2025 focuses on novel research topics and methods in deep learning applied to reliability assessment. It highlights applications of machine learning and optimization in energy systems, featuring insights from leading researchers and industry experts. 
 
 Abstact: Expanding grids with renewable energy challenges their reliability. Methods from deep learning offer vast opportunities for monitoring the reliability of the distribution and transmission system. This talk briefly introduces the fundamentals of neural networks over convolutional to graph neural networks. However, when applying supervised learning neural networks training data is needed. Power systems have inherent data imbalances and noise. From data to model, this talk develops a machine-learning workflow for grids on two examples (a) transmission system dynamic security assessment and (b) distribution system state estimation. Topics covered:
 
