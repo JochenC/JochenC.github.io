@@ -7,7 +7,7 @@ venue: "Intelligent Systems Conference (IntelliSys) 2022"
 date: 2022-09-01
 location: "Amsterdam, Netherlands"
 ---
-The Intelligent Systems Conference (IntelliSys) 2022, held from September 1–2 in Amsterdam, Netherlands, brought together researchers and practitioners to discuss the latest advancements in intelligent systems. :contentReference[oaicite:2]{index=2}
+The Intelligent Systems Conference (IntelliSys) 2022, held from September 1–2 in Amsterdam, Netherlands, brought together researchers and practitioners to discuss the latest advancements in intelligent systems. 
 
 My keynote address, titled "AI for Distributed Energy Systems," focused on the role of artificial intelligence in optimizing and managing distributed energy resources, highlighting recent research and practical applications in the field.
 
