@@ -45,8 +45,4 @@ By the end of the course, students will be able to:
 ### Education Method
 The course includes lectures, homework assignments, a project, and office hours to support student learning.
 
-### Course Relations
-This course is mutually exclusive with EE4C12. Students who have taken EE4C12 are not eligible to enroll in SET3125.
-
-
 [Course documentation and detailed syllabus here](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=70087)

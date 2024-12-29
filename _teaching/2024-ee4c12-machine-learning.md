@@ -8,9 +8,10 @@ date: 2024-09-01
 location: "Delft, Netherlands"
 ---
 
-EE4C12 is a graduate-level course designed for MSc students in Electrical Engineering at TU Delft. This course provides a comprehensive introduction to machine learning concepts, with a focus on applications relevant to electrical and energy systems. Students will gain theoretical knowledge and hands-on experience, equipping them to apply machine learning techniques effectively in real-world problems.
+**EE4C12** is a graduate-level course designed for MSc students in Electrical Engineering at TU Delft. This course provides a comprehensive introduction to machine learning concepts, with a focus on applications relevant to electrical and energy systems. Students will gain theoretical knowledge and hands-on experience, equipping them to apply machine learning techniques effectively in real-world problems.
 
-### Course Details
+Course Details
+======
 - **Degree Program**: MSc Electrical Engineering
 - **ECTS**: 5
 - **Language**: English
@@ -27,7 +28,9 @@ EE4C12 is a graduate-level course designed for MSc students in Electrical Engine
   - Dr.ing. R.K. Bishnoi ([R.K.Bishnoi@tudelft.nl](mailto:R.K.Bishnoi@tudelft.nl))
   - Dr. S.H. Tindemans ([S.H.Tindemans@tudelft.nl](mailto:S.H.Tindemans@tudelft.nl))
 
-### Topics Covered
+Course Content
+======
+The course covers the following topics:
 1. Introduction to data analytics
 2. Regression
    - Linear, Ridge, and Lasso Regression
@@ -54,7 +57,8 @@ EE4C12 is a graduate-level course designed for MSc students in Electrical Engine
 10. Hardware in ML
     - Overview of platforms (CPU, GPU, FPGA, ASIC)
 
-### Study Goals
+Study Goals
+======
 By the end of the course, students will be able to:
 1. Analyze data and draw conclusions in the context of electrical engineering.
 2. Compare and evaluate machine learning concepts and algorithms.
@@ -62,11 +66,13 @@ By the end of the course, students will be able to:
 4. Apply machine learning training strategies to solve electrical engineering problems.
 5. Design a machine learning workflow for electrical engineering use cases.
 
-### Education Method
+Education Method
+======
 The course employs interactive, intuition-based lectures and hands-on coding labs. Students engage in practical implementations of machine learning models, integrating theoretical knowledge with real-world applications.
 
 
-### Literature and Study Materials
+Literature and Study Materials
+======
 - **Primary Textbook**: *Machine Learning Refined, Foundations, Algorithms, and Applications* by Jeremy Watt, Reza Borhani, and Aggelos K. Katsaggelos (Cambridge University Press, 2nd edition, 2020, ISBN: 9781108480727).
 - **Supplementary Texts**:
   - *An Introduction to Reinforcement Learning* by Richard S. Sutton and Andrew G. Barto.
