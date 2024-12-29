@@ -1,5 +1,5 @@
 ---
-title: "EE4C12: Machine Learning for Electrical Engineers"
+title: "EE4C12: Machine Learning for Electrical Engineering"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-ee4c12-machine-learning
