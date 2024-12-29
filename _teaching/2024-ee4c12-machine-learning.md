@@ -8,7 +8,8 @@ date: 2024-09-01
 location: "Delft, Netherlands"
 ---
 
-**EE4C12** is a graduate-level course designed for MSc students in Electrical Engineering at TU Delft. This course provides a comprehensive introduction to machine learning concepts, with a focus on applications relevant to electrical and energy systems. Students will gain theoretical knowledge and hands-on experience, equipping them to apply machine learning techniques effectively in real-world problems.
+EE4C12 is a graduate-level course designed for MSc students in Electrical Engineering at TU Delft. This course provides a comprehensive introduction to machine learning concepts, with a focus on applications relevant to electrical and energy systems. Students will gain theoretical knowledge and hands-on experience, equipping them to apply machine learning techniques effectively in real-world problems.
+
 
 Course Details
 ======
