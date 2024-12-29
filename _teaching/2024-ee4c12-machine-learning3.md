@@ -29,21 +29,41 @@ EE4C12 is a graduate-level course designed for MSc students in Electrical Engine
 
 ### Course Content
 The course covers the following topics:
-1. Statistical Learning (Supervised and Unsupervised)
-2. Supervised Regression
-3. Neural Networks
-4. Designing Machine Learning Workflows
-5. Physics-Informed Learning for Energy Applications
-6. Learning with Inductive Bias in Grids
+1. Introduction to data analytics
+2. Regression
+   - Linear, Ridge, and Lasso Regression
+   - Gradient Descent
+3. Classification
+   - Logistic Regression
+   - Support Vector Machines
+4. Feature engineering and selection
+   - Feature scaling and normalization
+   - Principal Component Analysis (PCA)
+   - Imputation techniques for missing data
+5. Neural Networks
+   - Perceptron and Fully Connected Networks
+   - Activation Functions
+   - Backpropagation Algorithm
+6. Developing a machine learning workflow
+7. Geometric Deep Learning
+   - Graph Neural Networks
+   - Convolutional Neural Networks
+8. Tree-based methods
+9. Reinforcement learning
+   - Markov Decision Processes
+   - Tabular methods, SARSA, and Q-Learning
+10. Hardware in ML
+    - Overview of platforms (CPU, GPU, FPGA, ASIC)
 
 ### Study Goals
 By the end of the course, students will be able to:
-1. Describe machine learning concepts.
-2. Compare concepts of effective learning in the energy system domain.
-3. Apply machine learning training strategies through calculations and analysis of energy system problems.
-4. Design elements of a machine learning workflow for energy systems.
+1. Analyze data and draw conclusions in the context of electrical engineering.
+2. Compare and evaluate machine learning concepts and algorithms.
+3. Use the Scikit-learn package in Python for practical applications.
+4. Apply machine learning training strategies to solve electrical engineering problems.
+5. Design a machine learning workflow for electrical engineering use cases.
 
 ### Education Method
-The course includes lectures, homework assignments, a project, and office hours to support student learning.
+The course employs interactive, intuition-based lectures and hands-on coding labs. Students engage in practical implementations of machine learning models, integrating theoretical knowledge with real-world applications.
 
 [Course documentation and detailed syllabus here](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=70087)
