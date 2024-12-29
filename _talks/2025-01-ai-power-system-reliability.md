@@ -1,7 +1,7 @@
 ---
 title: "1-Day Course on AI in Power System Reliability Monitoring"
 collection: talks
-type: "tutorial"
+type: "Tutorial"
 permalink: /talks/2025-01-01-ai-power-system-monitoring
 venue: "Tallinn University"
 date: 2025-01-21

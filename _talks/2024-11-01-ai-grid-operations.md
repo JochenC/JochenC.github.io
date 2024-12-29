@@ -1,7 +1,7 @@
 ---
 title: "Tutorial CIGRE C2.42 at AI-Day for Grid Operations"
 collection: talks
-type: "tutorial"
+type: "Tutorial"
 permalink: /talks/2024-11-01-ai-grid-operations
 venue: "IEEE CIGRE C2.42 AI-Day"
 date: 2024-11-18
