@@ -28,7 +28,7 @@ Explore more about [Publications](https://www.tudelft.nl/ai/delft-ai-energy-lab)
 
 Team
 ------
-Our interdisciplinary team is interdisciplinary combining specialists in data science, operations research and electrical engineering. We are part of the Delft AI Energy Lab that I am co-directing with [Peyman Mohajerin Esfahani](https://mohajerinesfahani.github.io/index.html) (based at TU Delft and University of Toronto). Structurally, we are within the Intelligent Electrical Power Grid section in the Department of [Electrical Sustainable Energy](https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy) that Peter Palensky heads. Currently, my team members are
+Our interdisciplinary team is combining specialists in data science, operations research and electrical engineering. We are part of the Delft AI Energy Lab that I am co-directing with [Peyman Mohajerin Esfahani](https://mohajerinesfahani.github.io/index.html) (based at TU Delft and University of Toronto). Structurally, we are within the Intelligent Electrical Power Grid section in the Department of [Electrical Sustainable Energy](https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy) that Peter Palensky heads. Currently, my team members are
 -	[Olayiwola Arowolo](https://www.tudelft.nl/en/staff/o.a.arowolo/), topic “Graph-based Learning for Electromagnetic Transients”, TU Delft
 -	[Paul Bannmüller](https://www.tudelft.nl/en/staff/p.e.bannmuller/), topic “Reinforcement Learning in Topology Control”, TU Delft
 -	Périne Cunat, topic “Modelling Generating Alternatives for Heating and Electricity Networks”, TU Delft, Austrian Institute of Technology
