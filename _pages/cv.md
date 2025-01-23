@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV [Download full CV](files/CV_Academic Jochen Cremer.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
