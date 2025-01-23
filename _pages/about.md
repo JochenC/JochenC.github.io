@@ -1,4 +1,3 @@
-![20221005_fotomariekedelorijn_3010d](https://github.com/user-attachments/assets/f06be682-6c68-454b-9274-e1abfad8d039)---
 permalink: /
 title: "About me"
 author_profile: true
