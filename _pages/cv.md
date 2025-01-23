@@ -94,5 +94,3 @@ Service and leadership
 - Workshop, “Entrepreneurship, Climate Change, Impact”, University of Leeds, UK, 12/2019
 - Founding [Climate Entrpeneurs Club London](https://www.climateentrepreneurs.uk/)
 - Chair and moderator of the 3-day conference, [International Student Energy Summit 2019](https://www.youtube.com/watch?v=QeMEbcdAiwo), London, UK 700 attendees, 07/2019
-
-- 
