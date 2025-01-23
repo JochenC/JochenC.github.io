@@ -56,3 +56,5 @@ The way forward
 On the roadmap towards a fully automated and digitalised grid, an intermediate step is to apply machine learning by the combination with established methodologies that are physics-based. In this intermediate step, the user (system operator) can build up trust in these by using common tools that are based on physics in a more effective way. To build up this trust and experience is of key importance in such a critical task as handling and avoiding power blackouts.
 
 However, if this critical task of avoiding power blackouts is not better addressed by using these techniques, we must either limit the share of renewable energy in the system or significantly invest in the grid infrastructure to build up redundancies in the assets. Taking either of these two pathways to get to net-zero carbon would be very expensive. That is why data-driven methods offer the opportunity to keep up with UK’s 2050 target and to make the journey to net-zero a cheaper one while keeping the lights on.
+
+[This blog](https://energyfutureslab.blog/2019/10/17/machine-learning-distributed-data-and-the-grid/) was published in Energy Futures Lab, Imperial College London 
