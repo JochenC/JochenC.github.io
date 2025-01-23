@@ -1,7 +1,7 @@
 ---
 title: 'Machine-Learning, distributed data and the grid'
 date: 2019-10-17
-permalink: /posts//2019/10/mlddgrid/
+permalink: /posts/2019/10/mlddgrid/
 tags:
   - cool posts
   - category1
