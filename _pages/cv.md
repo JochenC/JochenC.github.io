@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download full CV](./files/CV_Academic Jochen Cremer.pdf)
+[Download full CV](../files/CV_Academic Jochen Cremer.pdf)
 {% include base_path %}
 
 Education
