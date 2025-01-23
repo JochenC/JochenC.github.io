@@ -3,9 +3,9 @@ title: 'Machine-Learning, distributed data and the grid'
 date: 2019-10-17
 permalink: /posts//2019/10/mlddgrid
 tags:
-  - Machine Learning
-  - Balancing Power
-  - Security Assessment
+  - cool posts
+  - category1
+  - category2
 ---
 
 ![Youth](https://energyfutureslab.blog/wp-content/uploads/2019/10/action-activist-climate-2975498.jpg "Youth on Streets")
