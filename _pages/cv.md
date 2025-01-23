@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "CV [Download full CV](files/CV_Academic Jochen Cremer.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download full CV](files/CV_Academic Jochen Cremer.pdf)
 {% include base_path %}
 
 Education
