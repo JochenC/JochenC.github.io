@@ -29,19 +29,19 @@ Explore more about [Publications](https://www.tudelft.nl/ai/delft-ai-energy-lab)
 Team
 ------
 Our interdisciplinary team is interdisciplinary combining specialists in data science, operations research and electrical engineering. We are part of the Delft AI Energy Lab that I am co-directing with [Peyman Mohajerin Esfahani](https://mohajerinesfahani.github.io/index.html) (based at TU Delft and University of Toronto). Structurally, we are within the Intelligent Electrical Power Grid section in the Department of [Electrical Sustainable Energy](https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy) that Peter Palensky heads. Currently, my team members are
-•	[Olayiwola Arowolo](https://www.tudelft.nl/en/staff/o.a.arowolo/), topic “Graph-based Learning for Electromagnetic Transients”, TU Delft
-•	[Paul Bannmüller](https://www.tudelft.nl/en/staff/p.e.bannmuller/), topic “Reinforcement Learning in Topology Control”, TU Delft
-•	Périne Cunat, topic “Modelling Generating Alternatives for Heating and Electricity Networks”, TU Delft, Austrian Institute of Technology
-•	[Demetris Chrysostomou](https://www.tudelft.nl/en/staff/d.chrysostomou/), topic “Estimating Flexibility of Distribution Grids at TSO/DSO interface”, TU Delft 
-•	[Luca Hofstadler](https://www.tudelft.nl/staff/l.m.hofstadler), topic “Quantum Computing for Transmission Systems”, TU Delft, Austrian Institute of Technology
-•	[Mert Karaçelebi](https://www.tudelft.nl/en/staff/m.karacelebi/), topic “Neural Networks for Dynamic Security Assessment” TU Delft
-•	[Betül Mamudi](https://www.tudelft.nl/en/staff/b.mamudi/), topic “Machine Learning for State Estimation”, TU Delft, Alliander
-•	[Basel Morsy](https://www.tudelft.nl/staff/b.morsy), topic “Reinforcement Learning for Topological Reconfigurations”, TU Delft, Austrian Institute of Technology
-•	[Ali Rajaei](https://www.tudelft.nl/staff/a.rajaei), topic “System-theoretic Machine Learning for Congestion Management” TU Delft
-•	[Jochen Stiasny](https://www.tudelft.nl/en/staff/j.b.stiasny/), topic “Physics-Informed Machine Learning for Power System Dynamics”, TU Delft
-•	[Haiwei Xie](https://www.tudelft.nl/staff/h.xie-2), topic “Game Theory and Control of Distributed Energy”, TU Delft
-•	[Runyao Yu](https://www.tudelft.nl/en/staff/runyao.yu), topic “Machine Learning for Outliers in Grids Operations and Intraday Energy Markets’, TU Delft, Austrian Institute of Technology
-•	[Viktor Zobernig](https://www.tudelft.nl/staff/v.z.zobernig/), topic “Trading Strategies in Redispatch Markets”, TU Delft, Austrian Institute of Technology
+-	[Olayiwola Arowolo](https://www.tudelft.nl/en/staff/o.a.arowolo/), topic “Graph-based Learning for Electromagnetic Transients”, TU Delft
+-	[Paul Bannmüller](https://www.tudelft.nl/en/staff/p.e.bannmuller/), topic “Reinforcement Learning in Topology Control”, TU Delft
+-	Périne Cunat, topic “Modelling Generating Alternatives for Heating and Electricity Networks”, TU Delft, Austrian Institute of Technology
+-	[Demetris Chrysostomou](https://www.tudelft.nl/en/staff/d.chrysostomou/), topic “Estimating Flexibility of Distribution Grids at TSO/DSO interface”, TU Delft 
+-	[Luca Hofstadler](https://www.tudelft.nl/staff/l.m.hofstadler), topic “Quantum Computing for Transmission Systems”, TU Delft, Austrian Institute of Technology
+-	[Mert Karaçelebi](https://www.tudelft.nl/en/staff/m.karacelebi/), topic “Neural Networks for Dynamic Security Assessment” TU Delft
+-	[Betül Mamudi](https://www.tudelft.nl/en/staff/b.mamudi/), topic “Machine Learning for State Estimation”, TU Delft, Alliander
+-	[Basel Morsy](https://www.tudelft.nl/staff/b.morsy), topic “Reinforcement Learning for Topological Reconfigurations”, TU Delft, Austrian Institute of Technology
+-	[Ali Rajaei](https://www.tudelft.nl/staff/a.rajaei), topic “System-theoretic Machine Learning for Congestion Management” TU Delft
+-	[Jochen Stiasny](https://www.tudelft.nl/en/staff/j.b.stiasny/), topic “Physics-Informed Machine Learning for Power System Dynamics”, TU Delft
+-	[Haiwei Xie](https://www.tudelft.nl/staff/h.xie-2), topic “Game Theory and Control of Distributed Energy”, TU Delft
+-	[Runyao Yu](https://www.tudelft.nl/en/staff/runyao.yu), topic “Machine Learning for Outliers in Grids Operations and Intraday Energy Markets’, TU Delft, Austrian Institute of Technology
+-	[Viktor Zobernig](https://www.tudelft.nl/staff/v.z.zobernig/), topic “Trading Strategies in Redispatch Markets”, TU Delft, Austrian Institute of Technology
 
 Possibilities to join my team as PhD researcher
 ------
@@ -64,5 +64,5 @@ If you are already an exchange student at TU Delft for your MSc degree, we may b
 
 List of graduated PhD researchers
 ------
-•	Al-Amin Bugaje, “Data Augmentation for Power System Security Assessment”, Imperial College London, now a researcher at Hitachi Energy, Canada
-•	Federica Bellizio, “Topological Changes in Data-Driven Dynamic Security Assessment for Power System Control”, Imperial College London, now at Swiss Federal Laboratories for Materials Science and Technology & Co-Founder Kuafu
+-	Al-Amin Bugaje, “Data Augmentation for Power System Security Assessment”, Imperial College London, now a researcher at Hitachi Energy, Canada
+-	Federica Bellizio, “Topological Changes in Data-Driven Dynamic Security Assessment for Power System Control”, Imperial College London, now at Swiss Federal Laboratories for Materials Science and Technology & Co-Founder Kuafu
