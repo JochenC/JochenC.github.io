@@ -1,7 +1,7 @@
 ---
 title: 'Machine-Learning, distributed data and the grid'
 date: 2024-10-17
-permalink: /posts/2019mlddgrid
+permalink: /posts//2019/10/2019mlddgrid
 tags:
   - Machine Learning
   - Balancing Power
