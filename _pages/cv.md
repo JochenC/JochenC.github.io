@@ -50,7 +50,7 @@ Awards
 - John & Frances Jones Prize (2017-2018), Imperial College London for	“the postgraduate student who ‘made the best all-round contribution to College life, taking into account academic achievement, social and extra-curricular activities, for the academic year in question” 
 - Best Paper Award, 6th International Conference on Smart Cities and Green ICT, Portugal (2017)
 - Research Ambassador Award for highly qualified master’s students, RWTH Aachen (2015) 
-The Germany Scholarship for academic achievements by Evonik Foundation, Bilfinger Berger (2012-2016)	
+- The Germany Scholarship for academic achievements by Evonik Foundation, Bilfinger Berger (2012-2016)	
 - Dean’s List Award for academic achievements, Carnegie Mellon University, USA (2013-2014)
 - International Study and Education Partnerships Grant to study in the USA by the German Academic Exchange Service (2013-2014)
 
