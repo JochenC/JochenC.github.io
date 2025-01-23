@@ -18,22 +18,28 @@ Education
 
 Work experience
 ======
-* Since 2025 Associate Professor
-  * Delft University of Technology
+* Since 2025: Associate Professor
+  * Delft University of Technology, The Netherlands
   * Duties includes: Research, education, valorization & leadership in AI for power system operation
 
-* Since 2020 Assistant Professor
-  * Delft University of Technology
+* 2021-2024: Assistant Professor
+  * Delft University of Technology, The Netherlands
   * Duties includes: Research, education, valorization & leadership in AI for power system operation
     
 * Since 2022 Principal Scientist 
-  * Austrian Institute of Technology, Center for Energy
+  * Austrian Institute of Technology, Center for Energy, Austria
   * Duties included: Leading a research programme with TU Delft
 
 * Since 2021: Director (non-executive)
-  * Student Energy
+  * Student Energy, Canada
   * Duties included: Providing independenc oversight (risk, strategy, performance, people)
 
+* 2015-2016: Researcher
+  * Massachusetts Institute of Technology, USA
+  
+* 2013-2014: Researcher
+  * Carnegie Mellon University, USA
+  
 Awards
 ======
 - Best Technical Brochure Award IEEE PES Subcommittee AMPS (2024)
