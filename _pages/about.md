@@ -53,7 +53,7 @@ If you do not fulfil these criteria, I still believe you can develop towards a P
 
 Possibilities to join my team as MSc thesis researcher
 ------ 
-We are supporting MSc students to undertake research in this area within the scope of their thesis which frequently leads to scientific publications. Get in touch if you are interested
+We are supporting MSc students to undertake research in this area within the scope of their thesis which frequently leads to scientific publications. Get in touch if you are interested.
 
 Internship as visiting researcher (MSc or PhD)
 ------
