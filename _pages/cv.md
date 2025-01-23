@@ -43,6 +43,7 @@ Work experience
 Awards
 ======
 - Best Technical Brochure Award IEEE PES Subcommittee AMPS (2024)
+- Outstanding Reviewer IEEE PES Transactions on Sustainable Energy (2024)
 -	Best Paper of IEEE Journal of Modern Power Systems and Clean Energy (2022)
 -	Eryl Cadwallader Davies Prize 2020-2021, Electrical Engineering, Imperial College (2021) for the top “Outstanding PhD Thesis” out of 50 PhD theses in the academic year.
 - John Lever Memorial Award (2019), Faculty of Engineering, Imperial College 
@@ -78,7 +79,6 @@ Editorial and reviewer service
 ======
 - Technical program committee, 16th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy), Rotterdam, 2025
 - Guest editor for a special issue on “VSI:Stability Analysis of transmission system” International Journal of Electrical Power Engineering, 2025
-- Award: Outstanding Reviewer IEEE Transactions on Sustainable Energy, IEEE PES, 2024
 - Technical program committee 12th DACH+ Energy Informatics Conference, Lugano, Switzerland, 2024
 - Technical program committee 15th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy), Singapore, 2024
 - Guest editor for a special issue on “Big Data Analytics: Moving towards applications to maintain the secure operation of carbon-neutral power grids” IEEE Open Access Journal of Power and Energy, 2024
