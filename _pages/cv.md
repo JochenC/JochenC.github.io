@@ -18,10 +18,14 @@ Education
 
 Work experience
 ======
-* Since 2020 Associate Professor
+* Since 2025 Associate Professor
   * Delft University of Technology
   * Duties includes: Research, education, valorization leadership in AI for power system operation
 
+* Since 2020 Assistant Professor
+  * Delft University of Technology
+  * Duties includes: Research, education, valorization leadership in AI for power system operation
+    
 * Since 2022 Principal Scientist 
   * Austrian Institute of Technology, Center for Energy
   * Duties included: Leading a research programme with TU Delft
