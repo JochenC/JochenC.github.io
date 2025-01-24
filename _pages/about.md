@@ -19,6 +19,7 @@ Delft AI Energy Lab
 Our research develops fundamental methods based on AI and Machine learning that lead to new use cases in energy systems ranging from demand response to distributed real-time control over centralised coordinated operations in real-time. My team develops novel algorithms that can process substantial amounts of data and advance energy systems operations from societal, sustainable, and economic perspectives. Explore more about [Delft AI Energy Lab](https://www.tudelft.nl/ai/delft-ai-energy-lab)
 ![DelftAIEnergyLab2022](20221005_fotomariekedelorijn_3010d.jpg "Delft AI Energy lab team 2022")
 
+
 Research
 ------
 My vision is toward a fully data-driven operating paradigm of the control centres of the future, in distribution and transmission. This does not mean neglecting physical models but to include those as part of the “data” (others would say hybrids or physics-informed). Artificial Intelligence represents an alternative to handling complex systems with success in systematically handling very well images, molecular graphs, and human communication. The future electricity system requires fast (control and monitoring) actions and new foundations addressing the complexity of the operation of complex power systems. Currently, our team, among others develops either general AI-based models that can operate multiple (operating) tasks at once, and specialised AI-based models that can operate just one task but outperform conventional tooling. Eventually, my vision is that these will merge towards a system of AI in the control room.
