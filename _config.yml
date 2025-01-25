@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-UK"
+locale                   : "en-GB"
 title                    : "Jochen L. Cremer"
 title_separator          : "-"
 name                     : &name "Jochen L. Cremer"
