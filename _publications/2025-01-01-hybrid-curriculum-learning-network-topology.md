@@ -7,6 +7,6 @@ excerpt: "This paper presents a hybrid approach combining curriculum-trained rei
 date: 2025-01-01
 venue: "Electric Power Systems Research"
 paperurl: https://doi.org/10.1016/j.epsr.2025.111455
-citation: "Meppelink, G. J., Rajaei, A., & Cremer, J. L. (2025). 'A Hybrid Curriculum Learning and Tree Search Approach for Network Topology Control.' Electric Power Systems Research, 242, 111455."---
+citation: "Meppelink, G. J., Rajaei, A., & Cremer, J. L. (2025). 'A Hybrid Curriculum Learning and Tree Search Approach for Network Topology Control.' Electric Power Systems Research, 242, 111455."
 ---
 
