@@ -20,19 +20,19 @@ Work experience
 ======
 * Since 2025: Associate Professor
   * Delft University of Technology, The Netherlands
-  * Duties includes: Research, education, valorization & leadership in AI for power system operation
+  * Duties include: Research, education, valorization & leadership in AI for power system operation
 
 * 2021-2024: Assistant Professor
   * Delft University of Technology, The Netherlands
-  * Duties includes: Research, education, valorization & leadership in AI for power system operation
+  * Duties include: Research, education, valorization & leadership in AI for power system operation
     
-* Since 2022 Principal Scientist 
+* Since 2022: Principal Scientist 
   * Austrian Institute of Technology, Center for Energy, Austria
-  * Duties included: Leading a research programme with TU Delft
+  * Duties include: Leading a research programme with TU Delft
 
-* Since 2021: Director (non-executive)
+* Since 2021: Director (Non-Executive)
   * Student Energy, Canada
-  * Duties included: Providing independenc oversight (risk, strategy, performance, people)
+  * Duties included: Providing independent oversight (risk, strategy, performance, people)
 
 * 2015-2016: Researcher
   * Massachusetts Institute of Technology, USA
@@ -42,10 +42,10 @@ Work experience
   
 Awards
 ======
-- Best Technical Brochure Award IEEE PES Subcommittee AMPS (2024)
+- Best Technical Brochure Award IEEE PES AMPS Subcommittee (2024)
 - Outstanding Reviewer IEEE PES Transactions on Sustainable Energy (2024)
--	Best Paper of IEEE Journal of Modern Power Systems and Clean Energy (2022)
--	Eryl Cadwallader Davies Prize 2020-2021, Electrical Engineering, Imperial College (2021) for the top “Outstanding PhD Thesis” out of 50 PhD theses in the academic year.
+-	Best Paper Award, IEEE Journal of Modern Power Systems and Clean Energy (2022)
+-	Eryl Cadwallader Davies Prize 2020-2021, Electrical Engineering, Imperial College (2021) for the top Outstanding PhD Thesis among 50 PhD theses in the academic year.
 - John Lever Memorial Award (2019), Faculty of Engineering, Imperial College 
 “contributed significantly to teaching, outreach, public engagement, enterprise or student experience.” 
 - John & Frances Jones Prize (2017-2018), Imperial College London for	“the postgraduate student who ‘made the best all-round contribution to College life, taking into account academic achievement, social and extra-curricular activities, for the academic year in question” 
@@ -82,14 +82,14 @@ Editorial and reviewer service
 - Technical program committee 12th DACH+ Energy Informatics Conference, Lugano, Switzerland, 2024
 - Technical program committee 15th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy), Singapore, 2024
 - Guest editor for a special issue on “Big Data Analytics: Moving towards applications to maintain the secure operation of carbon-neutral power grids” IEEE Open Access Journal of Power and Energy, 2024
-- Guest editor for a special issue on “explainable AI for smart grid” for IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2023
+- Guest editor for a special issue on “Explainable AI for Smart Grids” for IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2023
 - Technical program committee IEEE ISGT Europe, Novi Sad, Serbia, 2022
 - Guest editor for a special issue on “Applications of machine learning and statistical methods for dynamic security assessment on transmission systems”, Sustainable Energy, Grids and Networks, 2018
 - Reviewer of around 100+ IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Energy Markets, Policy, and Regulation, International Journal of Electrical Power & Energy Systems, Electrical Power Systems Research
 
 Service and leadership
 ======
-- Co-Organiser 14. (Hybrid) Symposium Communications for Energy System (COMFOREN), Vienna, 09/2024
+- Co-Organizer, 14th (Hybrid) Symposium on Communications for Energy Systems (COMFOREN), Vienna, 09/2024
 - Organiser workshop for industry, “AI use cases for distribution networks”, Alliander, 05/2024
 - Moderator Symposium “Wide area monitoring, and data-driven aspects for the future power system” Inauguration of Prof. Marjan Popov, Delft, 03/2024
 - Moderator panel “Roadmap of Innovating with AI for Distribution Grids”, IEEE PES ISGT Europe 2023, Grenoble France
@@ -100,7 +100,7 @@ Service and leadership
 - Panel chair “Advanced Applications of Modern Optimization and Artificial Intelligence Methods on Active Distribution Networks”, IEEE PES General Meeting, Denver, USA, 08/2022	
 - Panel chair “Data collection and future needs to account for the continuous growth of sensing data in control rooms”,  IEEE PES General Meeting, Denver, USA, 08/2022	
 - Organizer, AI for E&S Think Tank Seminar Series, (bi-)weekly TU Delft, Rotterdam, Leiden University, 04/2021 	
-- panel moderator “Action-orientated innovations from the private sector” World Summit AI, Amsterdam, 0/2021
-- Workshop, “Entrepreneurship, Climate Change, Impact”, University of Leeds, UK, 12/2019
-- Founding [Climate Entrpeneurs Club London](https://www.climateentrepreneurs.uk/)
+- Panel moderator “Action-orientated innovations from the private sector” World Summit AI, Amsterdam, 10/2021
+- Workshop, “Entrepreneurship, Climate Change, and Impact”, University of Leeds, UK, 12/2019
+- Founder, [Climate Entrepreneurs Club London](https://www.climateentrepreneurs.uk/)
 - Chair and moderator of the 3-day conference, [International Student Energy Summit 2019](https://www.youtube.com/watch?v=QeMEbcdAiwo), London, UK 700 attendees, 07/2019
