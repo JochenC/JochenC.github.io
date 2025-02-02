@@ -32,7 +32,7 @@ Work experience
 
 * Since 2021: Director (Non-Executive)
   * Student Energy, Canada
-  * Duties included: Providing independent oversight (risk, strategy, performance, people)
+  * Duties include: Providing independent oversight (risk, strategy, performance, people)
 
 * 2015-2016: Researcher
   * Massachusetts Institute of Technology, USA
