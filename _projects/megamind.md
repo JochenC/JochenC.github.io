@@ -1,6 +1,6 @@
 ---
 title: "MEGAMIND Measuring, Gathering, Mining and Integrating Data for Self-management in the Edge of the Electricity System"
-excerpt: "Network operators and market parties are looking for ways to prevent intelligently  overloading the network and to link supply and demand. The MEGAMIND programme brings together knowledge of energy systems, artificial intelligence and regulation to develop both the necessary technology and appropriate regulations. The researchers aim to develop models to predict when problems will arise. Then, they will have devices that consume energy interact directly with devices that produce energy to avoid these situations. <br/><img src='/images/megamind_logo.png' style='width:100%;'>"
+excerpt: "Network operators and market parties are looking for ways to prevent intelligently  overloading the network and to link supply and demand. The MEGAMIND programme brings together knowledge of energy systems, artificial intelligence and regulation to develop both the necessary technology and appropriate regulations. The researchers aim to develop models to predict when problems will arise. Then, they will have devices that consume energy interact directly with devices that produce energy to avoid these situations. <br/><img src='/images/megamind_logo.png' style='width:50%;'>"
 collection: portfolio
 ---
 
