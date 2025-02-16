@@ -14,3 +14,6 @@ One of the key benefits of this program is that it builds upon the successful co
 Basel Morsy, myself, and Runyao Yu (left to right) in Vienna, 2024
 
 This programme involves PhD researchers, Viktor Zobernig, Basel Morsy, Runyao Yu, Luca Hofstadler, Périne Cunat, and one Postdoctoral researcher, Dr. Jochen Stiasny. I partly work as Principal Scientist at AIT to manage this program. Co-investigators from TU Delft are Prof. Peter Palensky, Prof. Laurens de Vries, Dr. Milos Cvetkovic, Prof. Dr. Mathijs de Weerdt, Dr. Matthias Möller and the [Center for Energy at AIT](https://www.ait.ac.at/en/about-the-ait/center/center-for-energy) with Tara Esterl and Dr. Friederich Kupzog among other senior researchers . The programme runs from 2022 to 2027. 
+
+<br/><img src='/images/20230308_121906.jpg'>
+Kickoff meeting in Vienna, 2023
