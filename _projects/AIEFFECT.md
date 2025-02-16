@@ -11,6 +11,9 @@ AI-EFFECT will establish a European Testing and Experimentation Facility (TEF) f
 
 Four demonstration nodes will address key energy challenges, with datasets and synthetic data supporting the testing of use cases. One of the nodes will be installed at TU Delft and will focus on transmission system congestion management. This AI-EFFECT node facility extends the Control Room of the Future (CRoF) at TU Delft with AI-testing abilities focusing on grid data synthetizing and AI-algorithm verifications. This node would serve as a bedrock for safe experimentation and validation of AI algorithms. The central ambition of this facility is to hone AI-based algorithms for congestion management, a critical function of control rooms. By providing a digital-physical and controlled environment replete with processes for synthetic grid data generation, the facility would allow for rigorous testing and refinement of these algorithms, ensuring they are robust and effective in managing the grid’s congestion, e.g., through sequential topological reconfigurations.
 
+<br/><img src='/images/AI-EFFECTKickoff.jpg'>
+Kick-off meeting hosted by EPRI, Dublin, October 2024
+
 ‍This Horizon project is a collabration between EPRI Europe, RWTH Aachen University, DNV, DTU, INESC TEC, enliteAI, Fraunhofer FIT, Watt-IS, Bornholms Varme A/S, Center Denmark, Enel, CEVE, Maynooth University, IKIM, Hertie School, SystemX, E-Distribución, TenneT TSO BV. From TU Delft, the researchers active in this programme are our PhD researcher Paul Bannmüller, I am the principal investigator (TU Delft) and other investigators are Prof. Dr. Peter Palensky, Dr. Simon Tindemans and Dr. Alex Stefanov. The programme runs from 2024 to 2027. Please find more information [here](https://ai-effect.eu/)
 
 
