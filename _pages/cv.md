@@ -77,6 +77,8 @@ Teaching
 
 Editorial and reviewer service
 ======
+- Associate Editor, IEEE PES Transactions on Power Systems, 2025-2027
+- Technical program committee, 24th Power Systems Computation Conference (PSCC), Cyprus, 2026
 - Technical program committee, 16th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy), Rotterdam, 2025
 - Guest editor for a special issue on “VSI:Stability Analysis of transmission system” International Journal of Electrical Power Engineering, 2025
 - Technical program committee 12th DACH+ Energy Informatics Conference, Lugano, Switzerland, 2024
