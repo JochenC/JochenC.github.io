@@ -12,7 +12,7 @@ title                    : "Jochen L. Cremer"
 title_separator          : "-"
 name                     : &name "Jochen L. Cremer"
 description              : &description "Associate Professor"
-url                      : https://jochen-cremer.com
+url                      : "https://jochen-cremer.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JochenC/JochenC.github.io"
 
