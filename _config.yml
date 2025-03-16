@@ -12,7 +12,7 @@ title                    : "Jochen L. Cremer"
 title_separator          : "-"
 name                     : &name "Jochen L. Cremer"
 description              : &description "Associate Professor"
-url                      : "https://jochen-cremer.com"
+url                      : https://jochen-cremer.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JochenC/JochenC.github.io"
 
@@ -126,7 +126,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : sH_eILDW6_FHDXUMRgRPSVQgJQX4gvgCVRUKZcXV41k
+google_site_verification : "sH_eILDW6_FHDXUMRgRPSVQgJQX4gvgCVRUKZcXV41k"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
