@@ -14,5 +14,5 @@ The talk presents a structured taxonomy of machine learning (ML) paradigms relev
 
 Concluding, the talk calls for collaborative, data-efficient approaches to AI for power grids, emphasizing the need for representations and models that generalize well across changing topologies, grid conditions, and operators. This guest talk was presented at the CRESYM cresROAD event on 08 April 2025.
 
-xfun::embed_file("https://JochenC.github.io/files\Jochen%20Cremer%20cresRoads%2008-04-2025.pdf ")
+xfun::embed_file("https://JochenC.github.io/files\Jochen%20Cremer%20cresRoads%2008-04-2025.pdf")
 
