@@ -1,3 +1,4 @@
+---
 title: "Exploring the Extrapolation Performance of Machine Learning Models for Power System Time Domain Simulations"
 collection: publications
 category: manuscripts
@@ -7,3 +8,4 @@ date: 2025-06-01
 venue: "Sustainable Energy, Grids and Networks (accepted)"
 paperurl: https://www.irep2025.unisannio.it/
 citation: "Arowolo, O., Stiasny, J., & Cremer, J. L. (2025). 'Exploring the Extrapolation Performance of Machine Learning Models for Power System Time Domain Simulations.' Sustainable Energy, Grids and Networks (accepted)."
+---
