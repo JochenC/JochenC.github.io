@@ -1,3 +1,4 @@
+---
 title: "Learning-Accelerated ADMM for Stochastic Power System Scheduling"
 collection: publications
 category: manuscripts
@@ -7,3 +8,4 @@ date: 2025-06-01
 venue: "IEEE Transactions on Sustainable Energy (accepted)"
 paperurl: https://ieee-pes.org/publications/transactions-on-sustainable-energy/
 citation: "Rajaei, A., Arowolo, O., & Cremer, J. L. (2025). 'Learning-Accelerated ADMM for Stochastic Power System Scheduling.' IEEE Transactions on Sustainable Energy (accepted)."
+---
