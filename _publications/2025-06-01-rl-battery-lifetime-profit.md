@@ -1,3 +1,4 @@
+---
 title: "Learning to Control a Battery Through Reinforcement: Balancing Lifetime and Profit"
 collection: publications
 category: conferences
@@ -7,3 +8,4 @@ date: 2025-06-01
 venue: "IEEE PES PowerTech 2025, Kiel, Germany"
 paperurl: https://2025.ieee-powertech.org/
 citation: "Santos Neves, C., Čović, N., & Cremer, J. (2025). 'Learning to Control a Battery Through Reinforcement: Balancing Lifetime and Profit.' Proceedings of IEEE PES PowerTech 2025, Kiel, Germany, 1–6."
+---
