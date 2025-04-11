@@ -1,3 +1,4 @@
+---
 title: "Exploratory Analysis on the Impact of Grid Tariffs in Transmission Expansion Planning"
 collection: publications
 category: conferences
@@ -7,3 +8,4 @@ date: 2025-06-01
 venue: "IEEE PES PowerTech 2025, Kiel, Germany"
 paperurl: https://2025.ieee-powertech.org/
 citation: "Hofstadler, L., Gavriluta, C., Stiasny, J., & Cremer, J. (2025). 'Exploratory Analysis on the Impact of Grid Tariffs in Transmission Expansion Planning.' Proceedings of IEEE PES PowerTech 2025, Kiel, Germany, 1–6."
+---
