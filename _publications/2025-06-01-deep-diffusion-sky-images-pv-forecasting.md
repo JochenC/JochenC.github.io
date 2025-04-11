@@ -1,3 +1,4 @@
+---
 title: "Deep Diffusion on Sky Images for Probabilistic Ultra-Short-Term PV Forecasting"
 collection: publications
 category: conferences
@@ -7,3 +8,4 @@ date: 2025-06-01
 venue: "IEEE PES PowerTech 2025, Kiel, Germany"
 paperurl: https://2025.ieee-powertech.org/
 citation: "Lopez Romero, O., Poland, J., & Cremer, J. L. (2025). 'Deep Diffusion on Sky Images for Probabilistic Ultra-Short-Term PV Forecasting.' Proceedings of IEEE PES PowerTech 2025, Kiel, Germany, 1–6."
+---
