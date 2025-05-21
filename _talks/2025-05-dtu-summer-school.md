@@ -1,5 +1,5 @@
 ---
-title: "Talk at DTU Summer School 2025"
+title: "DTU PES Summer School 2025"
 collection: talks
 type: "Talk"
 permalink: /talks/2025-05-dtu-summer-school
