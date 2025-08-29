@@ -2,7 +2,7 @@
 title: "Corrective Substation Reconfiguration and Busbar Splitting in Hybrid AC/DC Grids"
 collection: publications
 category: journal
-permalink: /publication/2025-08-corrective-substation-reconfiguration
+permalink: /publication/2025-08-01-corrective-substation-reconfiguration
 excerpt: "Proposes 'soft bus-bar splitting' for converter substations combined with corrective network topology reconfiguration to enhance flexibility and reduce costs in hybrid AC/DC grids."
 date: 2025-8-01
 venue: "International Journal of Electrical Power & Energy Systems, Volume 169 "
