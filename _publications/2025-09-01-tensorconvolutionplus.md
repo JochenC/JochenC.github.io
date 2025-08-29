@@ -2,7 +2,7 @@
 title: "TensorConvolutionPlus: A Python package for distribution system flexibility area estimation"
 collection: publications
 category: journals
-permalink: /publication/2025-09-tensorconvolutionplus
+permalink: /publication/2025-09-01-tensorconvolutionplus
 excerpt: "Introduces TensorConvolutionPlus, an open-source Python package for fast and flexible estimation of distribution system flexibility areas using multiple algorithms."
 date: 2025-09-01
 venue: "SoftwareX, Volume 31"
