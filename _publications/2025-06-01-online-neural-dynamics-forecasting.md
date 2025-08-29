@@ -3,7 +3,7 @@ title: "Online Neural Dynamics Forecasting for Power System Security"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-01-online-neural-dynamics-forecasting
-excerpt: "This paper proposes a machine learning framework for online forecasting of neural dynamics in power systems. Trained on post-fault data, the model enables accurate and real-time stability assessments, enhancing operational security."
+excerpt: "This paper proposes a machine learning framework for online forecasting of neural dynamics in power systems. Trained on post-fault data, the model enables accurate and real-time stability assessments, enhancing operational security. More information about this project can be found [here](https://mert-node.vercel.app/) "
 date: 2025-06-01
 venue: "International Journal of Electrical Power & Energy Systems, Volume 167"
 paperurl: https://doi.org/10.1016/j.ijepes.2025.110566
