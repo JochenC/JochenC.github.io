@@ -7,6 +7,7 @@ venue: "IEEE ISGT Europe 2025"
 date: 2025-10-20
 location: "Malta"
 ---
+
 At the IEEE ISGT Europe 2025 conference in Malta, the special panel *“Beyond the Blackout: Building Resilient Grids for an Interconnected Europe”* will address one of the most pressing challenges for Europe’s energy transition: how to safeguard electricity supply against large-scale failures. Motivated by the recent Iberian blackout, the session will explore how extreme weather, cyber threats, renewable integration, and cross-border interdependencies may combine into cascading disruptions with severe societal and economic consequences.  
 
 The session will be chaired by **Jochen Cremer (TU Delft)** and bring together distinguished experts from across Europe:
