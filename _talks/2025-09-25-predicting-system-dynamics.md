@@ -15,7 +15,7 @@ Our contribution focused on machine learning approaches for **Dynamic Security A
 This talk highlighted the potential of AI-driven methods to overcome long-standing bottlenecks in dynamic grid stability assessment, while also underscoring open challenges: out-of-distribution events, training data efficiency, and integration with corrective control actions. Together with the operator and simulation perspectives presented in the session, the discussion illustrated how cutting-edge research is converging with operational needs to enable real-time secure grid operations.
 
 Slides:  
-<iframe src="https://JochenC.github.io/files/Jochen%2025-09-2025%20Predicting%20System%20Dynamics.pdf" width="100%" height="600px">
+<iframe src="https://JochenC.github.io/files/Jochen%20Cremer%2025-09%2050Hertz%20-%20public.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it: 
-    <a href="https://JochenC.github.io/files/Jochen%2025-09-2025%20Predicting%20System%20Dynamics.pdf">Download PDF</a>.
+    <a href="https://JochenC.github.io/files/Jochen%20Cremer%2025-09%2050Hertz%20-%20public.pdf">Download PDF</a>.
 </iframe>
