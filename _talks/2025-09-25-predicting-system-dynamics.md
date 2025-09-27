@@ -8,7 +8,7 @@ date: 2025-09-25
 location: "Berlin, Germany"
 ---
 
-As part of the session “Pushing the Boundaries: Online Dynamic Assessment for Real-Time Grid Stability”, I presented joint research from the [Delft AI Energy Lab](https://www.tudelft.nl/ai/delft-ai-energy-lab) led by our PhD researcher Mert Karaçelebi. The session, hosted at 50Hertz in Berlin, combined perspectives from transmission operators (Dr. Christoph Pache, 50Hertz), parallel simulation technologies (Dr. Andrea Benigni, FZ Jülich), and AI-based methods (TU Delft).
+As part of the session “Pushing the Boundaries: Online Dynamic Assessment for Real-Time Grid Stability”, I presented joint research from the [Delft AI Energy Lab](https://www.tudelft.nl/ai/delft-ai-energy-lab) led by our PhD researcher Mert Karaçelebi. The session, hosted at 50Hertz in Berlin, combined perspectives from transmission operators (Dr. Christoph Pache, 50Hertz), parallel simulation technologies (Dr. Andrea Benigni, FZ Jülich), and AI-based methods (TU Delft), moderated by Michael Gerold (50Hertz).
 
 Our contribution focused on machine learning approaches for Dynamic Security Assessment (DSA), with a particular emphasis on Mert’s work with Neural Ordinary Differential Equations (NODEs). Conventional DSA relies on computationally intensive simulations that are not viable for real-time decision-making. NODE-based models, by contrast, can forecast power system trajectories online after disturbances, improving both speed and adaptability. Case studies demonstrated how online training and decentralized implementations can support secure operations and resilience against cascading events.
 
