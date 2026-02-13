@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I work as an Associate Professor at the [Electrical Engineering, Mathematics and Computer Science Faculty at the Delft University of Technology](https://www.tudelft.nl/en/eemcs). I also conduct research at the [Delft AI Energy Lab](https://www.tudelft.nl/ai/delft-ai-energy-lab), work as a principal scientist at the [Austrian Institute of Technology in the Center for Energy](https://www.ait.ac.at/en/about-the-ait/center/center-for-energy), and co-direct (non-executive) the Canadian organization [Student Energy](https://studentenergy.org/). Before that, I worked on Machine Learning applications for power systems at Imperial College London, Operations Research and Applied Control at Carnegie Mellon University and the Massachusetts Institute of Technology (MIT). During my studies, I worked in the chemical and energy industry, in China and Germany. I hold an M.Sc. in Chemical Engineering, a B.Sc. in Electrical Engineering, and a B.Sc. in Mechanical Engineering from RWTH Aachen University, Germany. I am an active member of the IEEE PES Taskforces and CIGRE C2 working groups. I also serve as Associate Editor for the IEEE PES Transactions on Power Systems and on several technical programme committes like for the Power System Computing Conference.
+I work as an Associate Professor at the [Electrical Engineering, Mathematics and Computer Science Faculty at the Delft University of Technology](https://www.tudelft.nl/en/eemcs). I also conduct research at the [Delft AI Energy Lab](https://www.tudelft.nl/ai/delft-ai-energy-lab), work as a principal scientist at the [Austrian Institute of Technology in the Center for Energy](https://www.ait.ac.at/en/about-the-ait/center/center-for-energy), and co-direct (non-executive) the Canadian organization [Student Energy](https://studentenergy.org/). Before that, I worked on Machine Learning applications for power systems at Imperial College London, Operations Research and Applied Control at Carnegie Mellon University, and the Massachusetts Institute of Technology (MIT). During my studies, I worked in the chemical and energy industry in China and Germany. I hold an M.Sc. in Chemical Engineering, a B.Sc. in Electrical Engineering, and a B.Sc. in Mechanical Engineering from RWTH Aachen University, Germany. I am an active member of the IEEE PES Task Forces and CIGRE C2 working groups. I also serve as Associate Editor for the IEEE PES Transactions on Power Systems and on several technical programme committes like for the Power System Computing Conference.
 
 Aside from these commitments, I enjoy playing squash, running, hiking, going to the sauna, sailing, skiing in the Alps, travelling to visit friends and family, and playing video games.
 
@@ -29,36 +29,40 @@ Explore more about [Publications](https://www.tudelft.nl/ai/delft-ai-energy-lab)
 Team
 ------
 Our interdisciplinary team combines specialists in data science, operations research, and electrical engineering. We are part of the Delft AI Energy Lab which I co-direct with [Peyman Mohajerin Esfahani](https://mohajerinesfahani.github.io/index.html) (based at TU Delft and University of Toronto). Structurally, we are within the Intelligent Electrical Power Grid section in the Department of [Electrical Sustainable Energy](https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy) that Peter Palensky heads. Currently, my team members are
--	[Olayiwola Arowolo](https://www.tudelft.nl/en/staff/o.a.arowolo/), topic “Graph-based Learning for Electromagnetic Transients”, TU Delft
--	[Paul Bannmüller](https://www.tudelft.nl/en/staff/p.e.bannmuller/), topic “Reinforcement Learning in Topology Control”, TU Delft
--	Périne Cunat, topic “Modelling Generating Alternatives for Heating and Electricity Networks”, TU Delft, Austrian Institute of Technology
--	[Demetris Chrysostomou](https://www.tudelft.nl/en/staff/d.chrysostomou/), topic “Estimating Flexibility of Distribution Grids at TSO/DSO interface”, TU Delft 
--	[Luca Hofstadler](https://www.tudelft.nl/staff/l.m.hofstadler), topic “Quantum Computing for Transmission Systems”, TU Delft, Austrian Institute of Technology
--	[Mert Karaçelebi](https://www.tudelft.nl/en/staff/m.karacelebi/), topic “Neural Networks for Dynamic Security Assessment” TU Delft
--	[Betül Mamudi](https://www.tudelft.nl/en/staff/b.mamudi/), topic “Machine Learning for State Estimation”, TU Delft, Alliander
--	[Basel Morsy](https://www.tudelft.nl/staff/b.morsy), topic “Reinforcement Learning for Topological Reconfigurations”, TU Delft, Austrian Institute of Technology
--	[Ali Rajaei](https://www.tudelft.nl/staff/a.rajaei), topic “System-theoretic Machine Learning for Congestion Management” TU Delft
--	[Jochen Stiasny](https://www.tudelft.nl/en/staff/j.b.stiasny/), topic “Physics-Informed Machine Learning for Power System Dynamics”, TU Delft
--	[Haiwei Xie](https://www.tudelft.nl/staff/h.xie-2), topic “Game Theory and Control of Distributed Energy”, TU Delft
--	[Runyao Yu](https://www.tudelft.nl/en/staff/runyao.yu), topic “Machine Learning for Outliers in Grids Operations and Intraday Energy Markets’, TU Delft, Austrian Institute of Technology
--	[Viktor Zobernig](https://www.tudelft.nl/staff/v.z.zobernig/), topic “Trading Strategies in Redispatch Markets”, TU Delft, Austrian Institute of Technology
+-	[Olayiwola Arowolo](https://www.tudelft.nl/en/staff/o.a.arowolo/), topic “Graph-based Learning for Power Systems”, TU Delft
+-	[Paul Bannmüller](https://www.tudelft.nl/en/staff/p.e.bannmuller/), topic “Reinforcement Learning in Topology Control”, PhD candidate TU Delft
+- [Kutay Bölat](https://www.tudelft.nl/staff/k.bolat/), topic "Time-series Foundation Models for Power Systems", Postdoctoral researcher TU Delft, Alliander
+-	[Luca Hofstadler](https://www.tudelft.nl/staff/l.m.hofstadler), topic “Quantum Computing for Transmission Systems”, PhD candidate TU Delft, Austrian Institute of Technology
+- Benoît Jeanson, topic: "Machine Learning and Optimization Algorithms for the Optimal Transmission Switching Problem", PhD candidate TU Delft, CRESYM 
+-	[Mert Karaçelebi](https://www.tudelft.nl/en/staff/m.karacelebi/), topic “Neural Networks for Dynamic Security Assessment”, PhD candidate TU Delft
+-	[Betül Mamudi](https://www.tudelft.nl/en/staff/b.mamudi/), topic “Machine Learning for State Estimation”, PhD candidate TU Delft, Alliander
+-	[Basel Morsy](https://www.tudelft.nl/staff/b.morsy), topic “Reinforcement Learning for Topological Reconfigurations”, PhD candidate TU Delft, Austrian Institute of Technology
+-	[Selin Özcan](https://www.tudelft.nl/en/staff/s.e.ozcan/), topic: State Estimation with Signal Processing and Machine Learning, PhD candidate TU Delft, Stedin
+-	[Ali Rajaei](https://www.tudelft.nl/staff/a.rajaei), topic “System-theoretic Machine Learning for Congestion Management”, PhD candidate TU Delft
+-	[Jochen Stiasny](https://www.tudelft.nl/en/staff/j.b.stiasny/), topic “Physics-Informed Machine Learning for Power System Dynamics”, Postdoc TU Delft, Austrian Institute of Technology
+- [Daniel Wieser](https://www.tudelft.nl/staff/d.a.r.wieser/), topic "AI-enhanced trading for Virtual Power Plants", PhD candidate TU Delft, Austrian Institute of Technology
+-	[Haiwei Xie](https://www.tudelft.nl/staff/h.xie-2), topic “Game Theory and Control of Distributed Energy”, PhD candidate TU Delft
+-	[Runyao Yu](https://www.tudelft.nl/en/staff/runyao.yu), topic “Machine Learning for Outliers in Grid Operations and Intraday Energy Markets’, PhD candidate TU Delft, Austrian Institute of Technology
+-	[Maosheng Yang](https://cookbook-ms.github.io/), topic "Data Synthetisation", Postdoctorcal researcher TU Delft
+-	[Viktor Zobernig](https://www.tudelft.nl/staff/v.z.zobernig/), topic “Trading Strategies in Redispatch Markets”, PhD candidate TU Delft, Austrian Institute of Technology
 
 Possibilities to join my team as PhD researcher
 ------
-We offer an excellent environment from tailored education to key background and competencies to conduct research in the area described above on a high-scientific quality. Additionally, we offer a competitive salary package to all our PhD researchers. We expect our new team members to have an excellent background in related domains (computer science, power systems, control or electrical engineering or related education background). We strongly encourage you to get in touch if you bring in this background on an excellent level, for example being among the top 10% among your peer students, and/or have already publications that demonstrate your research ambitions and previous performance, having won a merit-based award(s). If you meet these criteria, please note that diversity is a key priority for our team! Diverse teams are the most fun and best teams. I encourage everyone to apply. 
+We offer an excellent environment, from tailored education to key background and competencies to conduct research in the area described above on a high scientific quality. Additionally, we offer a competitive salary package to all our PhD researchers. We expect our new team members to have an excellent background in related domains (computer science, power systems, control, or electrical engineering, or related education background). We strongly encourage you to get in touch if you bring in this background on an excellent level, for example, being among the top 10% among your peer students, and/or having already published works that demonstrate your research ambitions and previous performance, and having won a merit-based award(s). If you meet these criteria, please note that diversity is a key priority for our team! Diverse teams are the most fun and best teams. I encourage everyone to apply. 
 
-Possibilities to join my team as MSc thesis researcher
+Possibilities to join my team as an MSc thesis researcher
 ------ 
-We are supporting MSc students to undertake research in this area within the scope of their thesis which frequently leads to scientific publications. Get in touch if you are interested.
+We are supporting MSc students to undertake research in this area within the scope of their thesis, which frequently leads to scientific publications. Get in touch if you are interested.
 
 Internship as visiting researcher (MSc or PhD)
 ------
-If you plan to spend around 1 year at TU Delft, have a good PhD performance, and have an initial idea of how your research could fit into our work please get in touch. However, due to our strong internal student base, we have limited capacity to host visiting researchers from other universities. This rarely justifies the administrative and supervisory overhead of stays shorter than one year, though exceptions may be made.
+If you plan to spend around 1 year at TU Delft, have a good PhD performance, and have an initial idea of how your research could fit into our work, please get in touch. However, because we have a strong internal student base, we can't host many visiting researchers from other universities. This rarely justifies the administrative and supervisory overhead of stays shorter than one year, though exceptions may be made.
 
-If you are already an exchange student at TU Delft for your MSc degree, we may be able to arrange for you to write your MSc thesis in our team, for example, we have good experience hosting Erasmus students who consider extending their stay at TU Delft for their thesis work.
+If you are already an exchange student at TU Delft for your MSc degree, we can arrange for you to write your MSc thesis in our team. For example, we have good experience hosting Erasmus students who consider extending their stay at TU Delft for their thesis work.
 
 
 List of graduated PhD researchers
 ------
+- Demetris Chrysostomou, “Learning-Based Distributed Resource Flexibility Estimation for Enhanced TSO-DSO Coordination”, TU Delft, [MEGAMIND research program](https://megamind.energy/), now at
 -	Al-Amin Bugaje, “Data Augmentation for Power System Security Assessment”, Imperial College London, now a researcher at Hitachi Energy in Canada
--	Federica Bellizio, “Topological Changes in Data-Driven Dynamic Security Assessment for Power System Control”, Imperial College London, now at the Swiss Federal Laboratories for Materials Science and Technology and Co-Founder of Kuafu
+-	Federica Bellizio, “Topological Changes in Data-Driven Dynamic Security Assessment for Power System Control”, Imperial College London, now at the Swiss Federal Laboratories for Materials Science and Technology, and Co-Founder of Kuafu
