@@ -8,4 +8,5 @@ date: 2026-02-12
 location: "Champéry, Switzerland"
 ---
 
-Across modern power systems, AI models are increasingly used for prediction, optimization, and decision support. However, these models are necessarily approximations of complex physics and operational constraints. In this talk, I will argue that **utility — not perfection — should be the guiding criterion** for AI adoption in power-system applications.
+Across modern power systems, AI models are increasingly used for prediction, optimization, and decision support. However, these models are necessarily approximations of complex physics and operational constraints. In this talk, I argued that **utility — not perfection — should be the guiding criterion** for AI adoption in power-system applications.
+Slides: <iframe src="https://JochenC.github.io/files/Champery-JochenCremer-12-02-2026" width="100%" height="600px"> This browser does not support PDFs. Please download the PDF to view it: Download PDF. </iframe>
