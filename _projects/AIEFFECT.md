@@ -14,6 +14,6 @@ Four demonstration nodes will address key energy challenges, with datasets and s
 <br/><img src='/images/AI-EFFECTKickoff.jpg'>
 Kick-off meeting hosted by EPRI, Dublin, October 2024
 
-‍This Horizon project is a collabration between EPRI Europe, RWTH Aachen University, DNV, DTU, INESC TEC, enliteAI, Fraunhofer FIT, Watt-IS, Bornholms Varme A/S, Center Denmark, Enel, CEVE, Maynooth University, IKIM, Hertie School, SystemX, E-Distribución, TenneT TSO BV. From TU Delft, the researchers active in this programme are our PhD researcher Paul Bannmüller, I am the principal investigator (TU Delft) and other investigators are Prof. Dr. Peter Palensky, Dr. Simon Tindemans and Dr. Alex Stefanov. The programme runs from 2024 to 2027. Please find more information [here](https://ai-effect.eu/)
+‍This Horizon project is a collaboration between EPRI Europe, RWTH Aachen University, DNV, DTU, INESC TEC, enliteAI, Fraunhofer FIT, Watt-IS, Bornholms Varme A/S, Center Denmark, Enel, CEVE, Maynooth University, IKIM, Hertie School, SystemX, E-Distribución, TenneT TSO BV. From TU Delft, the researchers active in this programme are our PhD researcher Paul Bannmüller, Haiwei Xie, and Postdoctoral researcher Maosheng Yang. I am the principal investigator (TU Delft) and other investigators are Prof. Dr. Peter Palensky, Dr. Simon Tindemans, and Dr. Alex Stefanov. The programme runs from 2024 to 2027. Please find more information [here](https://ai-effect.eu/)
 
 
