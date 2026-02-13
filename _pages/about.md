@@ -42,8 +42,8 @@ Our interdisciplinary team combines specialists in data science, operations rese
 -	[Jochen Stiasny](https://www.tudelft.nl/en/staff/j.b.stiasny/), topic “Physics-Informed Machine Learning for Power System Dynamics”, Postdoc TU Delft, Austrian Institute of Technology
 - [Daniel Wieser](https://www.tudelft.nl/staff/d.a.r.wieser/), topic "AI-enhanced trading for Virtual Power Plants", PhD candidate TU Delft, Austrian Institute of Technology
 -	[Haiwei Xie](https://www.tudelft.nl/staff/h.xie-2), topic “Game Theory and Control of Distributed Energy”, PhD candidate TU Delft
--	[Runyao Yu](https://www.tudelft.nl/en/staff/runyao.yu), topic “Machine Learning for Outliers in Grid Operations and Intraday Energy Markets’, PhD candidate TU Delft, Austrian Institute of Technology
 -	[Maosheng Yang](https://cookbook-ms.github.io/), topic "Data Synthetisation", Postdoctorcal researcher TU Delft
+-	-	[Runyao Yu](https://www.tudelft.nl/en/staff/runyao.yu), topic “Machine Learning for Outliers in Grid Operations and Intraday Energy Markets’, PhD candidate TU Delft, Austrian Institute of Technology
 -	[Viktor Zobernig](https://www.tudelft.nl/staff/v.z.zobernig/), topic “Trading Strategies in Redispatch Markets”, PhD candidate TU Delft, Austrian Institute of Technology
 
 Possibilities to join my team as PhD researcher
