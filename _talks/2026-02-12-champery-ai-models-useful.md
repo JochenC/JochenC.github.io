@@ -15,4 +15,9 @@ We begin with supervised surrogate models for fast dynamic security assessment a
 A central theme is generalization: power system ML must extrapolate across operating conditions, contingencies, time horizons, and even network topologies while facing the curse of dimensionality. We argue that injecting structure—physics, constraints, and graph topology—is essential for robustness. This perspective leads to a broader research question: Should power systems ML move toward foundation-style models trained via self-supervision on large-scale surrogate data? We outline how power flow formulations, residual modeling, and graph neural networks may provide the right abstractions for developing grid foundation models.
 
 The talk concludes by arguing that the “Power System Neural Network” remains to be invented—one that combines domain bias, scalable architectures, and strong extrapolation capability to support secure, reliable, and efficient future grids.
-Slides: <iframe src="https://JochenC.github.io/files/Champery-JochenCremer-12-02-2026" width="100%" height="600px"> This browser does not support PDFs. Please download the PDF to view it: Download PDF. </iframe>
+
+Slides:  
+<iframe src="https://JochenC.github.io/files/Champery-JochenCremer-12-02-2026.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: 
+    <a href="https://JochenC.github.io/files/Jochen%20Cremer%2025-09%2050Hertz%20-%20public.pdf">Download PDF</a>.
+</iframe>
