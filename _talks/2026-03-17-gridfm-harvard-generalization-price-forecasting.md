@@ -14,8 +14,6 @@ I will highlight how **rich feature representations** and market liquidity influ
 
 The talk will argue that generalization must be **designed**, not assumed — guided by market structure, data characteristics, spatial scale, and uncertainty quantification.
 
-The slides are available 
-
 Slides:  
 <iframe src="https://github.com/JochenC/JochenC.github.io/blob/master/files/Jochen%20Cremer%2018-03-2026.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it: 
