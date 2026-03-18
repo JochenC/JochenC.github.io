@@ -19,5 +19,6 @@ The talk concludes by arguing that the “Power System Neural Network” remains
 Slides:  
 <iframe src="https://JochenC.github.io/files/Champery-JochenCremer-12-02-2026.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it: 
-    <a href="https://JochenC.github.io/files/Jochen%20Cremer%2025-09%2050Hertz%20-%20public.pdf">Download PDF</a>.
+    <a href="https://JochenC.github.io/files/Champery-JochenCremer-12-02-2026.pdf">Download PDF</a>.
 </iframe>
+
