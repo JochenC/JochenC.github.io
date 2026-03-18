@@ -13,3 +13,5 @@ Electricity price forecasting is rapidly evolving, yet strong performance in one
 I will highlight how **rich feature representations** and market liquidity influence transferability across markets. Building on recent work with foundation models for probabilistic electricity forecasting, we will also examine how **explicit modeling of spatial interdependencies** across multiple regions (such as European markets) can improve probabilistic forecasting performance. 
 
 The talk will argue that generalization must be **designed**, not assumed — guided by market structure, data characteristics, spatial scale, and uncertainty quantification.
+
+The slides are available https://github.com/JochenC/JochenC.github.io/blob/master/files/Jochen%20Cremer%2018-03-2026.pdf
