@@ -1,0 +1,10 @@
+---
+title: "Spatio-Temporal Graph Neural Networks for Multi-Period Optimal Power Flow"
+collection: publications
+category: conferences
+permalink: /publication/2025-10-01-isgt-stgnn-opf
+excerpt: "The increasing integration of renewable energy sources (RES) and the inter-temporal constraints of generation units necessitate real-time solutions to the AC multi-period optimal power flow (MP-OPF) problem. RES exhibit spatiotemporal correlations due to their geographically distributed nature and time-varying generation patterns. This paper proposes a novel graph recurrent neural networks (GRNN)-based approach to learn an optimization proxy for the AC MP-OPF problem. The proposed approach: (i) uses a graph attention mechanism to extract grid topology features, enhancing scalability for larger networks and improving topology adaptiveness; (ii) uses a recurrent structure to capture temporal correlations, and enable scalability for longer prediction horizons; and (iii) jointly consider spatial and temporal dependencies in end-to-end learning to improve prediction accuracy. Additionally, a feasibility restoration layer minimizes constraint violations during training and ensures feasibility during testing. Numerical results on the IEEE 118-bus and PEGASE 1354-bus systems demonstrate the superior performance of the proposed GRNN over the baseline neural architectures, achieving up to 50% lower prediction error, minor optimality gap of 0.5%, and 2-4 orders of magnitude speed-ups. Under N-1 line outages, the GRNN approach reduces the optimality gap by 4.5%, showcasing its robustness to topology changes. These results highlight the GRNN-FR as a promising approach for real-time applications in large-scale power networks, whether for fast warm-start initialization or rapid solution of numerous MP-OPF instances.
+date: 2025-10-01
+venue: "IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe) 2025"
+citation: "Rajaei, A., Arowolo, O., & Cremer, J. L. (2025). Spatio-Temporal Graph Neural Networks for Multi-Period Optimal Power Flow. IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe), Valletta, Malta."
+---
