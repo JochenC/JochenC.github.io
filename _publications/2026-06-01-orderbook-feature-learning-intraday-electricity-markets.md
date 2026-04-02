@@ -7,5 +7,5 @@ excerpt: "Accurate probabilistic forecasting of intraday electricity prices is c
 date: 2026-06-01
 venue: "to appear at Power Systems Computation Conference (PSCC) 2026; to appear at Electric Power Systems Research (EPSR)"
 paperurl: https://arxiv.org/abs/2510.12685
-citation: "Yu, R., Wu, R., Han, Y., & Cremer, J. L. (2026). Orderbook Feature Learning and Asymmetric Generalization in Intraday Electricity Markets. Power Systems Computation Conference (PSCC)."
+citation: "Yu, R., Wu, R., Han, Y., & Cremer, J. L. (2026). Orderbook Feature Learning and Asymmetric Generalization in Intraday Electricity Markets. to appear at Power Systems Computation Conference (PSCC); to appear at Electric Power Systems Research (EPSR)"
 ---
